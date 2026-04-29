@@ -1,9 +1,14 @@
 {
   "orange": [
     {
-      "name": "Abhishek sharma",
-      "runs": 425
+      "name": "",
+      "runs": 0
     }
   ],
-  "purple": []
+  "purple": [
+    {
+      "name": "Eshan Malinga",
+      "wickets": 15
+    }
+  ]
 }
