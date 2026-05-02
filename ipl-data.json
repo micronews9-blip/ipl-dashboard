@@ -29,17 +29,18 @@
       "W",
       "W",
       "L",
+      "W",
       "W"
     ],
-    "runs_scored": 1424,
-    "overs_faced": 129,
-    "runs_conceded": 1362,
-    "overs_bowled": 136.9,
-    "m": 7,
-    "w": 5,
+    "runs_scored": 1501,
+    "overs_faced": 135.3,
+    "runs_conceded": 1437,
+    "overs_bowled": 153.20000000000002,
+    "m": 8,
+    "w": 6,
     "l": 2,
-    "pts": 10,
-    "nrr": 1.09
+    "pts": 12,
+    "nrr": 1.714
   },
   {
     "team": "RR",
@@ -138,17 +139,18 @@
       "L",
       "W",
       "L",
+      "L",
       "L"
     ],
-    "runs_scored": 1345,
-    "overs_faced": 134.7,
-    "runs_conceded": 1407,
-    "overs_bowled": 136.9,
-    "m": 7,
+    "runs_scored": 1420,
+    "overs_faced": 151,
+    "runs_conceded": 1484,
+    "overs_bowled": 143.20000000000002,
+    "m": 8,
     "w": 3,
-    "l": 4,
+    "l": 5,
     "pts": 6,
-    "nrr": -0.292
+    "nrr": -0.959
   },
   {
     "team": "KKR",
