@@ -1,5 +1,21 @@
 [
   {
+    "team": "RR",
+    "history": [
+      "W",
+      "W"
+    ],
+    "runs_scored": 338,
+    "overs_faced": 32.1,
+    "runs_conceded": 331,
+    "overs_bowled": 39.4,
+    "m": 2,
+    "w": 2,
+    "l": 0,
+    "pts": 4,
+    "nrr": 2.129
+  },
+  {
     "team": "DC",
     "history": [
       "W",
@@ -30,21 +46,6 @@
     "l": 0,
     "pts": 4,
     "nrr": 0.725
-  },
-  {
-    "team": "RR",
-    "history": [
-      "W"
-    ],
-    "runs_scored": 128,
-    "overs_faced": 12.1,
-    "runs_conceded": 127,
-    "overs_bowled": 19.4,
-    "m": 1,
-    "w": 1,
-    "l": 0,
-    "pts": 2,
-    "nrr": 4.032
   },
   {
     "team": "RCB",
@@ -96,17 +97,18 @@
   {
     "team": "GT",
     "history": [
+      "L",
       "L"
     ],
-    "runs_scored": 162,
-    "overs_faced": 20,
-    "runs_conceded": 165,
-    "overs_bowled": 19.1,
-    "m": 1,
+    "runs_scored": 366,
+    "overs_faced": 40,
+    "runs_conceded": 375,
+    "overs_bowled": 39.1,
+    "m": 2,
     "w": 0,
-    "l": 1,
+    "l": 2,
     "pts": 0,
-    "nrr": -0.539
+    "nrr": -0.441
   },
   {
     "team": "LSG",
