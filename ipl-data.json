@@ -32,6 +32,23 @@
     "logo": ""
   },
   {
+    "team": "MI",
+    "m": 2,
+    "w": 1,
+    "l": 1,
+    "nrr": -0.178,
+    "pts": 2,
+    "history": [
+      "L",
+      "W"
+    ],
+    "runs_scored": 383,
+    "overs_faced": 39.1,
+    "runs_conceded": 380,
+    "overs_bowled": 38.1,
+    "logo": ""
+  },
+  {
     "team": "PBKS",
     "m": 0,
     "w": 0,
@@ -75,32 +92,18 @@
   },
   {
     "team": "KKR",
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "nrr": -0.751,
-    "pts": 0,
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "logo": ""
-  },
-  {
-    "team": "MI",
     "m": 1,
     "w": 0,
     "l": 1,
-    "nrr": -0.89,
+    "nrr": -0.728,
     "pts": 0,
     "history": [
       "L"
     ],
-    "runs_scored": 159,
+    "runs_scored": 220,
     "overs_faced": 20,
-    "runs_conceded": 160,
-    "overs_bowled": 18.1,
+    "runs_conceded": 224,
+    "overs_bowled": 19.1,
     "logo": ""
   },
   {
