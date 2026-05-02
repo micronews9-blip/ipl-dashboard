@@ -5,17 +5,18 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 690,
-    "overs_faced": 61.1,
-    "runs_conceded": 655,
-    "overs_bowled": 70.4,
-    "m": 4,
+    "runs_scored": 849,
+    "overs_faced": 80.1,
+    "runs_conceded": 871,
+    "overs_bowled": 90.4,
+    "m": 5,
     "w": 4,
-    "l": 0,
+    "l": 1,
     "pts": 8,
-    "nrr": 1.989
+    "nrr": 0.964
   },
   {
     "team": "PBKS",
@@ -90,6 +91,25 @@
     "nrr": -0.005
   },
   {
+    "team": "SRH",
+    "history": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 1018,
+    "overs_faced": 100,
+    "runs_conceded": 906,
+    "overs_bowled": 88.4,
+    "m": 5,
+    "w": 2,
+    "l": 3,
+    "pts": 4,
+    "nrr": -0.069
+  },
+  {
     "team": "LSG",
     "history": [
       "L",
@@ -106,24 +126,6 @@
     "l": 2,
     "pts": 4,
     "nrr": -0.264
-  },
-  {
-    "team": "SRH",
-    "history": [
-      "L",
-      "W",
-      "L",
-      "L"
-    ],
-    "runs_scored": 802,
-    "overs_faced": 80,
-    "runs_conceded": 747,
-    "overs_bowled": 69.4,
-    "m": 4,
-    "w": 1,
-    "l": 3,
-    "pts": 2,
-    "nrr": -0.739
   },
   {
     "team": "MI",
