@@ -70,17 +70,18 @@
     "team": "LSG",
     "history": [
       "L",
+      "W",
       "W"
     ],
-    "runs_scored": 301,
-    "overs_faced": 37.9,
-    "runs_conceded": 301,
-    "overs_bowled": 37.1,
-    "m": 2,
-    "w": 1,
+    "runs_scored": 483,
+    "overs_faced": 57.9,
+    "runs_conceded": 482,
+    "overs_bowled": 57.1,
+    "m": 3,
+    "w": 2,
     "l": 1,
-    "pts": 2,
-    "nrr": -0.171
+    "pts": 4,
+    "nrr": -0.099
   },
   {
     "team": "GT",
@@ -138,17 +139,18 @@
     "history": [
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
-    "runs_scored": 406,
-    "overs_faced": 39.4,
-    "runs_conceded": 450,
-    "overs_bowled": 39.1,
-    "m": 3,
+    "runs_scored": 587,
+    "overs_faced": 59.4,
+    "runs_conceded": 632,
+    "overs_bowled": 59.1,
+    "m": 4,
     "w": 0,
-    "l": 2,
+    "l": 3,
     "pts": 1,
-    "nrr": -1.204
+    "nrr": -0.812
   },
   {
     "team": "CSK",
