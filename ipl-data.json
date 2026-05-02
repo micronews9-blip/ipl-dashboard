@@ -71,38 +71,40 @@
     "nrr": 0.154
   },
   {
-    "team": "LSG",
-    "history": [
-      "L",
-      "W",
-      "W"
-    ],
-    "runs_scored": 483,
-    "overs_faced": 57.9,
-    "runs_conceded": 482,
-    "overs_bowled": 57.1,
-    "m": 3,
-    "w": 2,
-    "l": 1,
-    "pts": 4,
-    "nrr": -0.099
-  },
-  {
     "team": "GT",
     "history": [
       "L",
       "L",
+      "W",
       "W"
     ],
-    "runs_scored": 576,
-    "overs_faced": 60,
-    "runs_conceded": 584,
-    "overs_bowled": 59.1,
-    "m": 3,
-    "w": 1,
+    "runs_scored": 741,
+    "overs_faced": 78.4,
+    "runs_conceded": 748,
+    "overs_bowled": 79.1,
+    "m": 4,
+    "w": 2,
     "l": 2,
-    "pts": 2,
-    "nrr": -0.282
+    "pts": 4,
+    "nrr": -0.005
+  },
+  {
+    "team": "LSG",
+    "history": [
+      "L",
+      "W",
+      "W",
+      "L"
+    ],
+    "runs_scored": 647,
+    "overs_faced": 77.9,
+    "runs_conceded": 647,
+    "overs_bowled": 75.5,
+    "m": 4,
+    "w": 2,
+    "l": 2,
+    "pts": 4,
+    "nrr": -0.264
   },
   {
     "team": "MI",
