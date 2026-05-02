@@ -82,6 +82,27 @@
     "nrr": 0.378
   },
   {
+    "team": "CSK",
+    "history": [
+      "L",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "runs_scored": 1338,
+    "overs_faced": 138.8,
+    "runs_conceded": 1235,
+    "overs_bowled": 129.5,
+    "m": 7,
+    "w": 3,
+    "l": 4,
+    "pts": 6,
+    "nrr": 0.103
+  },
+  {
     "team": "DC",
     "history": [
       "W",
@@ -129,37 +150,18 @@
       "L",
       "L",
       "L",
-      "W"
-    ],
-    "runs_scored": 1125,
-    "overs_faced": 110.1,
-    "runs_conceded": 1072,
-    "overs_bowled": 100.89999999999999,
-    "m": 6,
-    "w": 2,
-    "l": 4,
-    "pts": 4,
-    "nrr": -0.406
-  },
-  {
-    "team": "CSK",
-    "history": [
-      "L",
-      "L",
-      "L",
-      "W",
       "W",
       "L"
     ],
-    "runs_scored": 1131,
-    "overs_faced": 118.8,
-    "runs_conceded": 1131,
-    "overs_bowled": 110.5,
-    "m": 6,
+    "runs_scored": 1229,
+    "overs_faced": 129.1,
+    "runs_conceded": 1279,
+    "overs_bowled": 120.89999999999999,
+    "m": 7,
     "w": 2,
-    "l": 4,
+    "l": 5,
     "pts": 4,
-    "nrr": -0.715
+    "nrr": -1.059
   },
   {
     "team": "LSG",
