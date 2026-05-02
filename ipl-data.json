@@ -15,33 +15,22 @@
     "nrr": 3.132
   },
   {
-    "team": "PBKS",
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "pts": 0,
-    "nrr": 0
-  },
-  {
-    "team": "KKR",
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "pts": 0,
-    "nrr": 0
-  },
-  {
     "team": "MI",
+    "history": [
+      "W"
+    ],
+    "runs_scored": 224,
+    "overs_faced": 19.1,
+    "runs_conceded": 220,
+    "overs_bowled": 20,
+    "m": 1,
+    "w": 1,
+    "l": 0,
+    "pts": 2,
+    "nrr": 0.728
+  },
+  {
+    "team": "PBKS",
     "history": [],
     "runs_scored": 0,
     "overs_faced": 0,
@@ -117,6 +106,21 @@
     "l": 0,
     "pts": 0,
     "nrr": 0
+  },
+  {
+    "team": "KKR",
+    "history": [
+      "L"
+    ],
+    "runs_scored": 220,
+    "overs_faced": 20,
+    "runs_conceded": 224,
+    "overs_bowled": 19.1,
+    "m": 1,
+    "w": 0,
+    "l": 1,
+    "pts": 0,
+    "nrr": -0.728
   },
   {
     "team": "SRH",
