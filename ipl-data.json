@@ -1,5 +1,22 @@
 [
   {
+    "team": "RR",
+    "history": [
+      "W",
+      "W",
+      "W"
+    ],
+    "runs_scored": 488,
+    "overs_faced": 43.1,
+    "runs_conceded": 454,
+    "overs_bowled": 50.4,
+    "m": 3,
+    "w": 3,
+    "l": 0,
+    "pts": 6,
+    "nrr": 2.315
+  },
+  {
     "team": "PBKS",
     "history": [
       "W",
@@ -31,22 +48,6 @@
     "l": 0,
     "pts": 4,
     "nrr": 2.441
-  },
-  {
-    "team": "RR",
-    "history": [
-      "W",
-      "W"
-    ],
-    "runs_scored": 338,
-    "overs_faced": 32.1,
-    "runs_conceded": 331,
-    "overs_bowled": 39.4,
-    "m": 2,
-    "w": 2,
-    "l": 0,
-    "pts": 4,
-    "nrr": 2.129
   },
   {
     "team": "DC",
@@ -81,22 +82,6 @@
     "nrr": -0.171
   },
   {
-    "team": "MI",
-    "history": [
-      "W",
-      "L"
-    ],
-    "runs_scored": 386,
-    "overs_faced": 39.1,
-    "runs_conceded": 384,
-    "overs_bowled": 38.1,
-    "m": 2,
-    "w": 1,
-    "l": 1,
-    "pts": 2,
-    "nrr": -0.207
-  },
-  {
     "team": "SRH",
     "history": [
       "L",
@@ -112,6 +97,23 @@
     "l": 2,
     "pts": 2,
     "nrr": -0.578
+  },
+  {
+    "team": "MI",
+    "history": [
+      "W",
+      "L",
+      "L"
+    ],
+    "runs_scored": 509,
+    "overs_faced": 50.1,
+    "runs_conceded": 534,
+    "overs_bowled": 49.1,
+    "m": 3,
+    "w": 1,
+    "l": 2,
+    "pts": 2,
+    "nrr": -0.716
   },
   {
     "team": "KKR",
