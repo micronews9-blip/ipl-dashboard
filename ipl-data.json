@@ -4,17 +4,18 @@
     "history": [
       "W",
       "W",
+      "W",
       "W"
     ],
-    "runs_scored": 488,
-    "overs_faced": 43.1,
-    "runs_conceded": 454,
-    "overs_bowled": 50.4,
-    "m": 3,
-    "w": 3,
+    "runs_scored": 690,
+    "overs_faced": 61.1,
+    "runs_conceded": 655,
+    "overs_bowled": 70.4,
+    "m": 4,
+    "w": 4,
     "l": 0,
-    "pts": 6,
-    "nrr": 2.315
+    "pts": 8,
+    "nrr": 1.989
   },
   {
     "team": "PBKS",
@@ -37,17 +38,18 @@
     "team": "RCB",
     "history": [
       "W",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 453,
-    "overs_faced": 35.4,
-    "runs_conceded": 408,
-    "overs_bowled": 39.4,
-    "m": 2,
+    "runs_scored": 654,
+    "overs_faced": 55.4,
+    "runs_conceded": 610,
+    "overs_bowled": 57.4,
+    "m": 3,
     "w": 2,
-    "l": 0,
+    "l": 1,
     "pts": 4,
-    "nrr": 2.441
+    "nrr": 1.178
   },
   {
     "team": "DC",
