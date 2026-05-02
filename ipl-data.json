@@ -50,5 +50,18 @@
     "l": 0,
     "pts": 0,
     "nrr": 0
+  },
+  {
+    "team": "MI",
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
+    "m": 0,
+    "w": 0,
+    "l": 0,
+    "pts": 0,
+    "nrr": 0
   }
 ]
