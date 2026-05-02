@@ -50,17 +50,18 @@
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 1163,
-    "overs_faced": 120.1,
-    "runs_conceded": 1151,
-    "overs_bowled": 127.80000000000001,
-    "m": 7,
+    "runs_scored": 1391,
+    "overs_faced": 140.1,
+    "runs_conceded": 1380,
+    "overs_bowled": 146.10000000000002,
+    "m": 8,
     "w": 5,
-    "l": 2,
+    "l": 3,
     "pts": 10,
-    "nrr": 0.677
+    "nrr": 0.483
   },
   {
     "team": "SRH",
@@ -71,17 +72,18 @@
       "L",
       "W",
       "W",
+      "W",
       "W"
     ],
-    "runs_scored": 1454,
-    "overs_faced": 140,
-    "runs_conceded": 1285,
-    "overs_bowled": 128.4,
-    "m": 7,
-    "w": 4,
+    "runs_scored": 1683,
+    "overs_faced": 158.3,
+    "runs_conceded": 1513,
+    "overs_bowled": 148.4,
+    "m": 8,
+    "w": 5,
     "l": 3,
-    "pts": 8,
-    "nrr": 0.378
+    "pts": 10,
+    "nrr": 0.436
   },
   {
     "team": "CSK",
