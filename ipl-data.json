@@ -1,5 +1,21 @@
 [
   {
+    "team": "RR",
+    "m": 1,
+    "w": 1,
+    "l": 0,
+    "nrr": 4.032,
+    "pts": 2,
+    "history": [
+      "W"
+    ],
+    "runs_scored": 128,
+    "overs_faced": 12.1,
+    "runs_conceded": 127,
+    "overs_bowled": 19.4,
+    "logo": ""
+  },
+  {
     "team": "RCB",
     "m": 1,
     "w": 1,
@@ -12,22 +28,6 @@
     "runs_scored": 203,
     "overs_faced": 15.4,
     "runs_conceded": 201,
-    "overs_bowled": 20,
-    "logo": ""
-  },
-  {
-    "team": "CSK",
-    "m": 1,
-    "w": 1,
-    "l": 0,
-    "nrr": 0.89,
-    "pts": 2,
-    "history": [
-      "W"
-    ],
-    "runs_scored": 160,
-    "overs_faced": 18.1,
-    "runs_conceded": 159,
     "overs_bowled": 20,
     "logo": ""
   },
@@ -49,25 +49,28 @@
     "logo": ""
   },
   {
+    "team": "CSK",
+    "m": 2,
+    "w": 1,
+    "l": 1,
+    "nrr": -1.287,
+    "pts": 2,
+    "history": [
+      "W",
+      "L"
+    ],
+    "runs_scored": 287,
+    "overs_faced": 37.5,
+    "runs_conceded": 287,
+    "overs_bowled": 32.1,
+    "logo": ""
+  },
+  {
     "team": "PBKS",
     "m": 0,
     "w": 0,
     "l": 0,
     "nrr": 1.043,
-    "pts": 0,
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "logo": ""
-  },
-  {
-    "team": "RR",
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "nrr": 0.51,
     "pts": 0,
     "history": [],
     "runs_scored": 0,
