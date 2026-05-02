@@ -20,6 +20,27 @@
     "nrr": 1.608
   },
   {
+    "team": "RCB",
+    "history": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "runs_scored": 1424,
+    "overs_faced": 129,
+    "runs_conceded": 1362,
+    "overs_bowled": 136.9,
+    "m": 7,
+    "w": 5,
+    "l": 2,
+    "pts": 10,
+    "nrr": 1.09
+  },
+  {
     "team": "RR",
     "history": [
       "W",
@@ -39,26 +60,6 @@
     "l": 2,
     "pts": 10,
     "nrr": 0.677
-  },
-  {
-    "team": "RCB",
-    "history": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W",
-      "L"
-    ],
-    "runs_scored": 1218,
-    "overs_faced": 110.5,
-    "runs_conceded": 1157,
-    "overs_bowled": 116.9,
-    "m": 6,
-    "w": 4,
-    "l": 2,
-    "pts": 8,
-    "nrr": 1.125
   },
   {
     "team": "SRH",
@@ -130,17 +131,18 @@
       "W",
       "W",
       "W",
+      "L",
       "L"
     ],
-    "runs_scored": 1022,
-    "overs_faced": 113.30000000000001,
-    "runs_conceded": 1127,
-    "overs_bowled": 119.1,
-    "m": 6,
+    "runs_scored": 1227,
+    "overs_faced": 133.3,
+    "runs_conceded": 1333,
+    "overs_bowled": 137.6,
+    "m": 7,
     "w": 3,
-    "l": 3,
+    "l": 4,
     "pts": 6,
-    "nrr": -0.442
+    "nrr": -0.483
   },
   {
     "team": "MI",
