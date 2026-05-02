@@ -4,31 +4,27 @@
     "m": 8,
     "w": 6,
     "l": 1,
-    "nrr": null,
+    "nrr": 1.043,
     "pts": 13,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
     "team": "RCB",
-    "m": 8,
+    "m": 9,
     "w": 6,
-    "l": 2,
-    "nrr": 1.919,
+    "l": 3,
+    "nrr": 1.42,
     "pts": 12,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
@@ -38,45 +34,53 @@
     "l": 3,
     "nrr": 0.832,
     "pts": 12,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
     "team": "RR",
-    "m": 9,
+    "m": 10,
     "w": 6,
-    "l": 3,
-    "nrr": 0.617,
+    "l": 4,
+    "nrr": 0.51,
     "pts": 12,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
     "team": "GT",
-    "m": 8,
-    "w": 4,
+    "m": 9,
+    "w": 5,
     "l": 4,
-    "nrr": -0.475,
+    "nrr": -0.192,
+    "pts": 10,
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
+    "logo": ""
+  },
+  {
+    "team": "DC",
+    "m": 9,
+    "w": 4,
+    "l": 5,
+    "nrr": -0.895,
     "pts": 8,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
@@ -86,29 +90,11 @@
     "l": 5,
     "nrr": -0.121,
     "pts": 6,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
-    "logo": ""
-  },
-  {
-    "team": "DC",
-    "m": 8,
-    "w": 3,
-    "l": 5,
-    "nrr": -1.06,
-    "pts": 6,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
@@ -116,15 +102,13 @@
     "m": 8,
     "w": 2,
     "l": 5,
-    "nrr": -1.06,
+    "nrr": -0.751,
     "pts": 5,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
@@ -134,13 +118,11 @@
     "l": 6,
     "nrr": -0.784,
     "pts": 4,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   },
   {
@@ -150,13 +132,11 @@
     "l": 6,
     "nrr": -1.106,
     "pts": 4,
-    "form": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W"
-    ],
+    "history": [],
+    "runs_scored": 0,
+    "overs_faced": 0,
+    "runs_conceded": 0,
+    "overs_bowled": 0,
     "logo": ""
   }
 ]
