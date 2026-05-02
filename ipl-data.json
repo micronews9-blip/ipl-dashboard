@@ -1,32 +1,21 @@
 [
   {
-    "team": "PBKS",
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "pts": 0,
-    "nrr": 0
-  },
-  {
-    "team": "SRH",
-    "history": [],
-    "runs_scored": 0,
-    "overs_faced": 0,
-    "runs_conceded": 0,
-    "overs_bowled": 0,
-    "m": 0,
-    "w": 0,
-    "l": 0,
-    "pts": 0,
-    "nrr": 0
-  },
-  {
     "team": "RCB",
+    "history": [
+      "W"
+    ],
+    "runs_scored": 203,
+    "overs_faced": 15.4,
+    "runs_conceded": 201,
+    "overs_bowled": 20,
+    "m": 1,
+    "w": 1,
+    "l": 0,
+    "pts": 2,
+    "nrr": 3.132
+  },
+  {
+    "team": "PBKS",
     "history": [],
     "runs_scored": 0,
     "overs_faced": 0,
@@ -128,5 +117,20 @@
     "l": 0,
     "pts": 0,
     "nrr": 0
+  },
+  {
+    "team": "SRH",
+    "history": [
+      "L"
+    ],
+    "runs_scored": 201,
+    "overs_faced": 20,
+    "runs_conceded": 203,
+    "overs_bowled": 15.4,
+    "m": 1,
+    "w": 0,
+    "l": 1,
+    "pts": 0,
+    "nrr": -3.132
   }
 ]
