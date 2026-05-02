@@ -45,29 +45,6 @@
     "nrr": 1.264
   },
   {
-    "team": "RR",
-    "history": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "L",
-      "L",
-      "W",
-      "L",
-      "W"
-    ],
-    "runs_scored": 1619,
-    "overs_faced": 159.29999999999998,
-    "runs_conceded": 1602,
-    "overs_bowled": 166.10000000000002,
-    "m": 9,
-    "w": 6,
-    "l": 3,
-    "pts": 12,
-    "nrr": 0.518
-  },
-  {
     "team": "SRH",
     "history": [
       "L",
@@ -89,6 +66,30 @@
     "l": 3,
     "pts": 12,
     "nrr": 0.506
+  },
+  {
+    "team": "RR",
+    "history": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L"
+    ],
+    "runs_scored": 1844,
+    "overs_faced": 179.29999999999998,
+    "runs_conceded": 1828,
+    "overs_bowled": 185.20000000000002,
+    "m": 10,
+    "w": 6,
+    "l": 4,
+    "pts": 12,
+    "nrr": 0.414
   },
   {
     "team": "GT",
@@ -114,6 +115,29 @@
     "nrr": 0.054
   },
   {
+    "team": "DC",
+    "history": [
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 1646,
+    "overs_faced": 170.1,
+    "runs_conceded": 1709,
+    "overs_bowled": 163.20000000000002,
+    "m": 9,
+    "w": 4,
+    "l": 5,
+    "pts": 8,
+    "nrr": -0.795
+  },
+  {
     "team": "CSK",
     "history": [
       "L",
@@ -134,28 +158,6 @@
     "l": 5,
     "pts": 6,
     "nrr": -0.154
-  },
-  {
-    "team": "DC",
-    "history": [
-      "W",
-      "W",
-      "L",
-      "L",
-      "W",
-      "L",
-      "L",
-      "L"
-    ],
-    "runs_scored": 1420,
-    "overs_faced": 151,
-    "runs_conceded": 1484,
-    "overs_bowled": 143.20000000000002,
-    "m": 8,
-    "w": 3,
-    "l": 5,
-    "pts": 6,
-    "nrr": -0.959
   },
   {
     "team": "KKR",
