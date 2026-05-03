@@ -9,17 +9,18 @@
       "W",
       "W",
       "W",
+      "L",
       "L"
     ],
-    "runs_scored": 1537,
-    "overs_faced": 130.8,
-    "runs_conceded": 1502,
-    "overs_bowled": 142.6,
-    "m": 8,
+    "runs_scored": 1700,
+    "overs_faced": 150.8,
+    "runs_conceded": 1669,
+    "overs_bowled": 162.1,
+    "m": 9,
     "w": 6,
-    "l": 1,
+    "l": 2,
     "pts": 13,
-    "nrr": 1.218
+    "nrr": 0.977
   },
   {
     "team": "RCB",
@@ -103,17 +104,18 @@
       "L",
       "L",
       "W",
+      "W",
       "W"
     ],
-    "runs_scored": 1547,
-    "overs_faced": 165.20000000000002,
-    "runs_conceded": 1646,
-    "overs_bowled": 176.79999999999998,
-    "m": 9,
-    "w": 5,
+    "runs_scored": 1714,
+    "overs_faced": 184.70000000000002,
+    "runs_conceded": 1809,
+    "overs_bowled": 196.79999999999998,
+    "m": 10,
+    "w": 6,
     "l": 4,
-    "pts": 10,
-    "nrr": 0.054
+    "pts": 12,
+    "nrr": 0.088
   },
   {
     "team": "CSK",
