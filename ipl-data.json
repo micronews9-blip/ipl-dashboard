@@ -187,28 +187,6 @@
     "nrr": -0.389
   },
   {
-    "team": "LSG",
-    "history": [
-      "L",
-      "W",
-      "W",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L"
-    ],
-    "runs_scored": 1267.1,
-    "overs_faced": 156.20000000000002,
-    "runs_conceded": 1364.4,
-    "overs_bowled": 150.7,
-    "m": 8,
-    "w": 2,
-    "l": 6,
-    "pts": 4,
-    "nrr": -0.942
-  },
-  {
     "team": "MI",
     "history": [
       "W",
@@ -219,16 +197,40 @@
       "W",
       "L",
       "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 1860,
+    "overs_faced": 187.5,
+    "runs_conceded": 1916,
+    "overs_bowled": 177.39999999999998,
+    "m": 10,
+    "w": 3,
+    "l": 7,
+    "pts": 6,
+    "nrr": -0.88
+  },
+  {
+    "team": "LSG",
+    "history": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
       "L"
     ],
-    "runs_scored": 1631,
-    "overs_faced": 169.1,
-    "runs_conceded": 1688,
-    "overs_bowled": 157.39999999999998,
+    "runs_scored": 1495.1,
+    "overs_faced": 176.20000000000002,
+    "runs_conceded": 1593.4,
+    "overs_bowled": 169.1,
     "m": 9,
     "w": 2,
     "l": 7,
     "pts": 4,
-    "nrr": -1.079
+    "nrr": -0.938
   }
 ]
