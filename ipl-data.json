@@ -128,17 +128,18 @@
       "L",
       "W",
       "L",
+      "W",
       "W"
     ],
-    "runs_scored": 1656,
-    "overs_faced": 176.9,
-    "runs_conceded": 1556,
-    "overs_bowled": 165.9,
-    "m": 9,
-    "w": 4,
+    "runs_scored": 1815,
+    "overs_faced": 194.20000000000002,
+    "runs_conceded": 1711,
+    "overs_bowled": 185.9,
+    "m": 10,
+    "w": 5,
     "l": 5,
-    "pts": 8,
-    "nrr": -0.018
+    "pts": 10,
+    "nrr": 0.142
   },
   {
     "team": "DC",
@@ -151,17 +152,18 @@
       "L",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 1646,
-    "overs_faced": 170.1,
-    "runs_conceded": 1709,
-    "overs_bowled": 163.20000000000002,
-    "m": 9,
+    "runs_scored": 1801,
+    "overs_faced": 190.1,
+    "runs_conceded": 1868,
+    "overs_bowled": 180.50000000000003,
+    "m": 10,
     "w": 4,
-    "l": 5,
+    "l": 6,
     "pts": 8,
-    "nrr": -0.795
+    "nrr": -0.875
   },
   {
     "team": "KKR",
