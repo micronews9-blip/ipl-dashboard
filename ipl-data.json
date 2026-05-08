@@ -145,6 +145,30 @@
     "nrr": 0.142
   },
   {
+    "team": "KKR",
+    "history": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "runs_scored": 1559.4,
+    "overs_faced": 171.29999999999998,
+    "runs_conceded": 1622.1,
+    "overs_bowled": 177.8,
+    "m": 10,
+    "w": 4,
+    "l": 5,
+    "pts": 9,
+    "nrr": -0.02
+  },
+  {
     "team": "DC",
     "history": [
       "W",
@@ -156,40 +180,18 @@
       "L",
       "L",
       "W",
+      "L",
       "L"
     ],
-    "runs_scored": 1801,
-    "overs_faced": 190.1,
-    "runs_conceded": 1868,
-    "overs_bowled": 180.50000000000003,
-    "m": 10,
+    "runs_scored": 1943,
+    "overs_faced": 210.1,
+    "runs_conceded": 2015,
+    "overs_bowled": 194.70000000000002,
+    "m": 11,
     "w": 4,
-    "l": 6,
+    "l": 7,
     "pts": 8,
-    "nrr": -0.875
-  },
-  {
-    "team": "KKR",
-    "history": [
-      "L",
-      "L",
-      "D",
-      "L",
-      "L",
-      "L",
-      "W",
-      "W",
-      "W"
-    ],
-    "runs_scored": 1412.4,
-    "overs_faced": 157.1,
-    "runs_conceded": 1480.1,
-    "overs_bowled": 157.8,
-    "m": 9,
-    "w": 3,
-    "l": 5,
-    "pts": 7,
-    "nrr": -0.389
+    "nrr": -1.101
   },
   {
     "team": "LSG",
