@@ -25,6 +25,31 @@
     "nrr": 0.516
   },
   {
+    "team": "GT",
+    "history": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "runs_scored": 1943,
+    "overs_faced": 204.70000000000002,
+    "runs_conceded": 1961,
+    "overs_bowled": 213.1,
+    "m": 11,
+    "w": 7,
+    "l": 4,
+    "pts": 14,
+    "nrr": 0.29
+  },
+  {
     "team": "PBKS",
     "history": [
       "W",
@@ -84,41 +109,18 @@
       "W",
       "L",
       "W",
+      "L",
       "L"
     ],
-    "runs_scored": 1844,
-    "overs_faced": 179.29999999999998,
-    "runs_conceded": 1828,
-    "overs_bowled": 185.20000000000002,
-    "m": 10,
+    "runs_scored": 1996,
+    "overs_faced": 195.6,
+    "runs_conceded": 2057,
+    "overs_bowled": 205.20000000000002,
+    "m": 11,
     "w": 6,
-    "l": 4,
+    "l": 5,
     "pts": 12,
-    "nrr": 0.414
-  },
-  {
-    "team": "GT",
-    "history": [
-      "L",
-      "L",
-      "W",
-      "W",
-      "W",
-      "L",
-      "L",
-      "W",
-      "W",
-      "W"
-    ],
-    "runs_scored": 1714,
-    "overs_faced": 184.70000000000002,
-    "runs_conceded": 1809,
-    "overs_bowled": 196.79999999999998,
-    "m": 10,
-    "w": 6,
-    "l": 4,
-    "pts": 12,
-    "nrr": 0.088
+    "nrr": 0.18
   },
   {
     "team": "CSK",
