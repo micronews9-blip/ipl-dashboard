@@ -1,5 +1,30 @@
 [
   {
+    "team": "RCB",
+    "history": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 2026,
+    "overs_faced": 193.5,
+    "runs_conceded": 1970,
+    "overs_bowled": 207.70000000000002,
+    "m": 11,
+    "w": 7,
+    "l": 4,
+    "pts": 14,
+    "nrr": 0.985
+  },
+  {
     "team": "SRH",
     "history": [
       "L",
@@ -72,30 +97,6 @@
     "l": 3,
     "pts": 13,
     "nrr": 0.68
-  },
-  {
-    "team": "RCB",
-    "history": [
-      "W",
-      "W",
-      "L",
-      "W",
-      "W",
-      "L",
-      "W",
-      "W",
-      "L",
-      "L"
-    ],
-    "runs_scored": 1859,
-    "overs_faced": 173.5,
-    "runs_conceded": 1804,
-    "overs_bowled": 187.70000000000002,
-    "m": 10,
-    "w": 6,
-    "l": 4,
-    "pts": 12,
-    "nrr": 1.104
   },
   {
     "team": "CSK",
@@ -197,6 +198,31 @@
     "nrr": -1.101
   },
   {
+    "team": "MI",
+    "history": [
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L"
+    ],
+    "runs_scored": 2026,
+    "overs_faced": 207.5,
+    "runs_conceded": 2083,
+    "overs_bowled": 197.39999999999998,
+    "m": 11,
+    "w": 3,
+    "l": 8,
+    "pts": 6,
+    "nrr": -0.788
+  },
+  {
     "team": "LSG",
     "history": [
       "L",
@@ -220,29 +246,5 @@
     "l": 8,
     "pts": 6,
     "nrr": -0.807
-  },
-  {
-    "team": "MI",
-    "history": [
-      "W",
-      "L",
-      "L",
-      "L",
-      "L",
-      "W",
-      "L",
-      "L",
-      "L",
-      "W"
-    ],
-    "runs_scored": 1860,
-    "overs_faced": 187.5,
-    "runs_conceded": 1916,
-    "overs_bowled": 177.39999999999998,
-    "m": 10,
-    "w": 3,
-    "l": 7,
-    "pts": 6,
-    "nrr": -0.88
   }
 ]
