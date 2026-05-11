@@ -86,17 +86,18 @@
       "W",
       "L",
       "L",
+      "L",
       "L"
     ],
-    "runs_scored": 1902,
-    "overs_faced": 170.8,
-    "runs_conceded": 1904,
-    "overs_bowled": 182.1,
-    "m": 10,
+    "runs_scored": 2112,
+    "overs_faced": 190.8,
+    "runs_conceded": 2120,
+    "overs_bowled": 201.1,
+    "m": 11,
     "w": 6,
-    "l": 3,
+    "l": 4,
     "pts": 13,
-    "nrr": 0.68
+    "nrr": 0.527
   },
   {
     "team": "CSK",
@@ -149,6 +150,32 @@
     "nrr": 0.18
   },
   {
+    "team": "DC",
+    "history": [
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 2159,
+    "overs_faced": 229.1,
+    "runs_conceded": 2225,
+    "overs_bowled": 214.70000000000002,
+    "m": 12,
+    "w": 5,
+    "l": 7,
+    "pts": 10,
+    "nrr": -0.939
+  },
+  {
     "team": "KKR",
     "history": [
       "L",
@@ -171,31 +198,6 @@
     "l": 5,
     "pts": 9,
     "nrr": -0.02
-  },
-  {
-    "team": "DC",
-    "history": [
-      "W",
-      "W",
-      "L",
-      "L",
-      "W",
-      "L",
-      "L",
-      "L",
-      "W",
-      "L",
-      "L"
-    ],
-    "runs_scored": 1943,
-    "overs_faced": 210.1,
-    "runs_conceded": 2015,
-    "overs_bowled": 194.70000000000002,
-    "m": 11,
-    "w": 4,
-    "l": 7,
-    "pts": 8,
-    "nrr": -1.101
   },
   {
     "team": "MI",
