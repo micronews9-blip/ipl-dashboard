@@ -135,6 +135,33 @@
     "nrr": 0.294
   },
   {
+    "team": "KKR",
+    "history": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "runs_scored": 2146.4,
+    "overs_faced": 229.79999999999998,
+    "runs_conceded": 2181.1,
+    "overs_bowled": 236.9,
+    "m": 13,
+    "w": 6,
+    "l": 6,
+    "pts": 13,
+    "nrr": 0.133
+  },
+  {
     "team": "CSK",
     "history": [
       "L",
@@ -189,32 +216,6 @@
     "nrr": -0.814
   },
   {
-    "team": "KKR",
-    "history": [
-      "L",
-      "L",
-      "D",
-      "L",
-      "L",
-      "L",
-      "W",
-      "W",
-      "W",
-      "W",
-      "L",
-      "W"
-    ],
-    "runs_scored": 1998.4,
-    "overs_faced": 211.29999999999998,
-    "runs_conceded": 2034.1,
-    "overs_bowled": 216.9,
-    "m": 12,
-    "w": 5,
-    "l": 6,
-    "pts": 11,
-    "nrr": 0.08
-  },
-  {
     "team": "LSG",
     "history": [
       "L",
@@ -255,16 +256,17 @@
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 2231,
-    "overs_faced": 227,
-    "runs_conceded": 2283,
-    "overs_bowled": 217.39999999999998,
-    "m": 12,
+    "runs_scored": 2378,
+    "overs_faced": 247,
+    "runs_conceded": 2431,
+    "overs_bowled": 235.89999999999998,
+    "m": 13,
     "w": 4,
-    "l": 8,
+    "l": 9,
     "pts": 8,
-    "nrr": -0.673
+    "nrr": -0.678
   }
 ]
