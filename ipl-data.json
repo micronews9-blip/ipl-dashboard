@@ -81,6 +81,33 @@
     "nrr": 0.253
   },
   {
+    "team": "RR",
+    "history": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W"
+    ],
+    "runs_scored": 2414,
+    "overs_faced": 234.7,
+    "runs_conceded": 2474,
+    "overs_bowled": 244.4,
+    "m": 13,
+    "w": 7,
+    "l": 6,
+    "pts": 14,
+    "nrr": 0.163
+  },
+  {
     "team": "PBKS",
     "history": [
       "W",
@@ -106,32 +133,6 @@
     "l": 6,
     "pts": 13,
     "nrr": 0.294
-  },
-  {
-    "team": "RR",
-    "history": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "L",
-      "L",
-      "W",
-      "L",
-      "W",
-      "L",
-      "L",
-      "L"
-    ],
-    "runs_scored": 2189,
-    "overs_faced": 215.6,
-    "runs_conceded": 2254,
-    "overs_bowled": 224.4,
-    "m": 12,
-    "w": 6,
-    "l": 6,
-    "pts": 12,
-    "nrr": 0.108
   },
   {
     "team": "CSK",
@@ -227,17 +228,18 @@
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 2095.1,
-    "overs_faced": 231.60000000000002,
-    "runs_conceded": 2191.4,
-    "overs_bowled": 227.29999999999998,
-    "m": 12,
+    "runs_scored": 2315.1,
+    "overs_faced": 251.60000000000002,
+    "runs_conceded": 2416.4,
+    "overs_bowled": 246.39999999999998,
+    "m": 13,
     "w": 4,
-    "l": 8,
+    "l": 9,
     "pts": 8,
-    "nrr": -0.595
+    "nrr": -0.605
   },
   {
     "team": "MI",
