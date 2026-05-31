@@ -16,17 +16,18 @@
       "W",
       "W",
       "L",
+      "W",
       "W"
     ],
-    "runs_scored": 2896,
-    "overs_faced": 272.6,
-    "runs_conceded": 2778,
-    "overs_bowled": 287.00000000000006,
-    "m": 15,
-    "w": 10,
+    "runs_scored": 3057,
+    "overs_faced": 290.6,
+    "runs_conceded": 2933,
+    "overs_bowled": 307.00000000000006,
+    "m": 16,
+    "w": 11,
     "l": 5,
-    "pts": 20,
-    "nrr": 0.944
+    "pts": 22,
+    "nrr": 0.966
   },
   {
     "team": "GT",
@@ -46,17 +47,18 @@
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
-    "runs_scored": 2939,
-    "overs_faced": 302.40000000000003,
-    "runs_conceded": 2902,
-    "overs_bowled": 301,
-    "m": 16,
+    "runs_scored": 3094,
+    "overs_faced": 322.40000000000003,
+    "runs_conceded": 3063,
+    "overs_bowled": 319,
+    "m": 17,
     "w": 10,
-    "l": 6,
+    "l": 7,
     "pts": 20,
-    "nrr": 0.078
+    "nrr": -0.005
   },
   {
     "team": "SRH",
